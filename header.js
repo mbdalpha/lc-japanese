@@ -29,11 +29,13 @@ class Header extends HTMLElement {
                     <li class="pure-menu-item">
                     <a class="pure-menu-link" href="resources.html">Resources</a>
                     </li>
+                    <!-- FIXME:darkmode.js 
                     <li class="pure-menu-item">
                     <button onclick="swapStyle()" style="font-size: 1.4em; background: none ; border: none;">
                         <i id="themebutton" class="fa-solid fa-sun"></i>
                     </button>
                     </li>
+                    -->
                 </ul>
             </div>
         </nav>
