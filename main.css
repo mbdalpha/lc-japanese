@@ -1,0 +1,52 @@
+a {
+    color: #3391ff;
+}
+
+body{
+    min-height: 100vh;
+    margin: 0;
+}
+
+header{
+    min-height:8em;
+}
+
+footer{
+    min-height: 6.5em;
+  }
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    display:flex;
+    flex-wrap: wrap;
+}
+.main{
+    flex: 80%;
+    padding: 5px;
+}
+.discord{
+    flex: 15%;
+    padding: 20px;
+}
+main{
+    flex: 1;
+}
+
+h1, h2, h3, h4, h5 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  p {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+ .pure-g > div {
+   box-sizing: border-box;
+  }
+ .l-box {
+   padding: 5px;
+  }
