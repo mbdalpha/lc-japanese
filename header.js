@@ -10,7 +10,7 @@ class Header extends HTMLElement {
             <div class="pure-menu pure-menu-horizontal">
                 <ul class="pure-menu-list">
                     <li class="pure-menu-item">
-                        <a href="homepage.html" class="pure-menu-link">Home</a>
+                        <a href="index.html" class="pure-menu-link">Home</a>
                     </li>
                     <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover pure-menu-selected">
                         <a href="#" id="mainguide.html" class="pure-menu-link">Main Guide</a>
@@ -29,13 +29,6 @@ class Header extends HTMLElement {
                     <li class="pure-menu-item">
                     <a class="pure-menu-link" href="resources.html">Resources</a>
                     </li>
-                    <!-- FIXME:darkmode.js 
-                    <li class="pure-menu-item">
-                    <button onclick="swapStyle()" style="font-size: 1.4em; background: none ; border: none;">
-                        <i id="themebutton" class="fa-solid fa-sun"></i>
-                    </button>
-                    </li>
-                    -->
                 </ul>
             </div>
         </nav>
