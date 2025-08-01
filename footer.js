@@ -16,7 +16,7 @@ class Footer extends HTMLElement {
                 </p>
             </div>
             <div class="discord">
-                <a href="homepage.html" style="display:block; font-size: 1.7em; background-color:#7289da; color:white; text-decoration: none; border-radius: 8px; text-align:center;">
+                <a href="https://discord.gg/ZhfKvuzTDk" style="display:block; font-size: 1.7em; background-color:#7289da; color:white; text-decoration: none; border-radius: 8px; text-align:center;">
                 <i class="fa-brands fa-discord"></i>
                 Join us on Discord
                 </a>
